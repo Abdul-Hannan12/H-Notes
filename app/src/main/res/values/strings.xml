@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">H Notes</string>
+    <string name="positive">yes</string>
+    <string name="negative">no</string>
+</resources>
